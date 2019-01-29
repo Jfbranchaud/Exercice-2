@@ -65,7 +65,7 @@ body {
   
   .box {
     background-color: #444;
-    color: #fff;
+    color: rgb(108, 180, 243);
     border-radius: 5px;
     padding: 10px;
     font-size: 150%; 
