@@ -16,6 +16,7 @@ body {
   
       .header {
           grid-area: header;
+          
       }
   
       .footer {
@@ -70,7 +71,13 @@ body {
     font-size: 150%; 
   }
   
-  .header,
+  .header{
+    background-color: chartreuse;
+
+  }
+
+
+
   .footer {
     background-color: #999;
   }
