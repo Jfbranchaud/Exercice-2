@@ -75,23 +75,23 @@ body {
   }
   
   .header{
-    background-color: chocolate;
+    background-color: darkslateblue;
 
   }
 .content{
-    background-color: burlywood;
+   background-color: darkgoldenrod
 }
 
 
   .footer {
-    background-color: darkgoldenrod;
+    background-color: maroon;
   }
   
 
   .sidebar{
-    background-color: chocolate; 
+    background-color: darkslateblue; 
   }
   .sidebar2 {
-    background-color: darkgoldenrod;
-    color: #444;
+    background-color: maroon;
+    color: #fff;
   }
